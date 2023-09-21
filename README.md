@@ -35,7 +35,7 @@ Tijd om de pagina's te vullen met content. Gezien dit een blogplatform is, gaan 
 **Overzichtspagina**
 Deze pagina moet de totale hoeveelheid posts op het platform weergeven (een nummeriek getal) en een lijst van alle blogs. Deze geef je weer in het volgende format:
 
-```json
+```
 De Smaken van Italië (Anna de Kok)
 12 reacties - 8 keer gedeeld
 ```
