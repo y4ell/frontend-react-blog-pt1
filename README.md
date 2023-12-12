@@ -63,7 +63,8 @@ brengen! Maak zelf 4 pagina-componenten aan met een passende routing-structuur:
 * Nieuwe post pagina (om een nieuwe blog te starten)
 * Overzichtspagina (om alle blogs te bekijken)
 * Een 404-pagina (om foute url's af te vangen)
-  Uiteraard test je goed of alles werkt, door handmatig de url in de adresbalk te veranderen. _Tip:_ zet ook direct de
+
+Uiteraard test je goed of alles werkt, door handmatig de url in de adresbalk te veranderen. _Tip:_ zet ook direct de
   pagina-naam als titel bovenaan iedere pagina, zodat je kunt zien wat er gebeurt.
 
 ### 1.2 Navigatie
@@ -76,7 +77,7 @@ moeten zorgen voor een goed werkende menu-balk met daarin de links naar:
 * 'Alle posts'
 * 'Nieuwe post'
 
-* Deze menu-balk moet altijd bovenaan iedere pagina staan. Zorg ervoor dat het in het menu zichtbaar is wat de actieve
+Deze menu-balk moet altijd bovenaan iedere pagina staan. Zorg ervoor dat het in het menu zichtbaar is wat de actieve
   pagina is.
 
 ### 1.3 Dynamic routing
@@ -154,7 +155,8 @@ Bouw een formulier met de volgende velden:
 * Subtitel
 * Auteur
 * Bericht
-  Alle velden moeten verplicht worden ingevuld. De blogpost moet minimaal 300 en maximaal 2000 karakters lang zijn. Als
+
+Alle velden moeten verplicht worden ingevuld. De blogpost moet minimaal 300 en maximaal 2000 karakters lang zijn. Als
   er niet aan deze voorwaarden is voldaan, kan de post niet worden verzonden.
 
 ### 3.2 Data verzamelen
