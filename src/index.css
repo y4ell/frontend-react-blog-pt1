@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&family=Raleway:wght@200&display=swap');
 /*In dit bestand plaats je alle algemene styling die geldt voor de gehele applicatie*/
 
 :root {
@@ -13,8 +14,9 @@
   box-sizing: border-box;
 }
 
+
 body {
-  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-family: Raleway, sans-serif;
   line-height: 1.5;
   font-weight: 400;
   font-synthesis: none;
