@@ -27,7 +27,7 @@ function Navigation() {
             <li>
                 <NavLink
                     className={({ isActive }) => isActive ? 'active-link' : 'default-link'}
-                    to="./overview">
+                    to="./posts">
                     Alle posts
                 </NavLink>
             </li>
